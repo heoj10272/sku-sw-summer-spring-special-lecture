@@ -1,0 +1,45 @@
+c:\sku\workspace <- workspace로 지정
+
+src-day01 패키지 생성 - HelloWorld.java
+
+접근제한자 예약어 : public, private, protected, package 접근제한자 // 총 4개
+
+compile, interpreter의 차이점은 한 번에 다 보느냐, 한 줄 마나 보느냐의 차이 ?
+때문에 자바는 느림(초기에)
+c는 빠르지만 실행시키는 환경에 따라 실행 가능 여부가 달라짐
+java는 어떤 환경에서든 동일한 실행 여부를 보장함
+
+main -> 프로그램의 시작점
+static을 빼먹어도 실행되는가? 안됨.
+main은 vm이 실행시키는건데 static이 없으면 객체가 없기 때문에? 실행되지 않음
+class는 그냥 인스턴스를 생성하기 위한 틀이다. 
+new 를 사용해서 인스턴스를 생성해야만 한다.
+근데 static이 붙으면 해당 메소드만 메모리에 올려 사용할 수 있게 해준다.
+속성이 별로 중요하지 않고, 기능이 자주 사용될 때 굳이 객체를 생성하지 않고 static을 붙여 사용할 수 있다.
+
+main의 파라미터인 String[]을 다른걸로 바꾸면 실행되지 않는다.
+왜냐면 main은 String[]을 받는 함수로 정해져있기 때문.
+Java는 Method Overloading을 지원한다.
+즉 파라미터가 달라지면 메소드 이름이 같아도 다른 메소드로 인식한다.
+즉 main(String[] args)와 main(int args)는 다르다.
+
+표준 출력의 추상화 : System.out
+실제 장치의 추상화 : System
+
+Java는 카멜표기법을 사용함
+
+강사님 티스토리 주소 : https://carami.tistory.com/137
+
+
+
+
+
+
+
+
+
+
+
+
+
+
