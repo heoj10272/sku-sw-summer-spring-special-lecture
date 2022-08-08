@@ -117,7 +117,7 @@ git push
 
 상단 메뉴에서 자신의 branch를 선택
 
-![image](https://user-images.githubusercontent.com/89104369/183465138-e1d997a6-7dbc-4511-9864-74db74ebebe8.png)
+![image](https://user-images.githubusercontent.com/89104369/183467413-29406e75-52fb-4699-8812-8f9b1f32881b.png)
 
 `1 commit ahead` 선택
 
