@@ -97,6 +97,10 @@ git add .
 ```
 git commit -m "[commit 내용]"
 ```
+저는 다음과 같이 작성했습니다.
+```
+git commit -m "day01"
+```
 여기서 [commit 내용]에는 `commit`시의 메시지가 들어가게 됩니다.
 
 ![image](https://user-images.githubusercontent.com/89104369/183463495-d285fe61-2de8-406a-b845-8443c3426028.png)
