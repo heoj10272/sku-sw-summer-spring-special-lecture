@@ -34,7 +34,7 @@ git clone https://github.com/heoj10272/sku-sw-summer-spring-special-lecture.git
 
 ## 6. java 워크스페이스 이동
 
-실습하고 계신 워크스페이스 폴더 (특강 때 강사님을 따라 그대로 생성하셨다면 `c:\sku\workspace)를 자신의 이름이 적힌 폴더 내부로 이동시킵니다. <br>
+실습하고 계신 워크스페이스 폴더 (특강 때 강사님을 따라 그대로 생성하셨다면 `c:\sku\workspace`)를 자신의 이름이 적힌 폴더 내부로 이동시킵니다. <br>
 저의 경우 `허재영` 폴더 내에 `workspace`폴더가 이동되었습니다.
 
 ## 7. 실습 환경
