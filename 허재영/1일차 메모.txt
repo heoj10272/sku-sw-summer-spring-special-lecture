@@ -26,6 +26,8 @@ Java는 Method Overloading을 지원한다.
 표준 출력의 추상화 : System.out
 실제 장치의 추상화 : System
 
+다음 시간에 계속
+
 Java는 카멜표기법을 사용함
 
 강사님 티스토리 주소 : https://carami.tistory.com/137
