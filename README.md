@@ -61,7 +61,10 @@ git branch [branch 이름]
 ```
 
 branch 이름은 자신의 영어 이름으로 하겠습니다. <br>
-저의 경우는 `jaeyoung` 입니다.
+저의 경우는 `jaeyoung` 이라는 branch를 생성할 것이므로, 명령어는 다음과 같습니다.
+```
+git branch jaeyoung
+```
 
 다음 명령어로 branch 목록을 확인할 수 있습니다.
 ```
