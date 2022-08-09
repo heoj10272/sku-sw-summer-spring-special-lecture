@@ -1,4 +1,2 @@
-INDEX VERSION 1.131+E:\[서경대] SW 스프링 특강\허재영\workspace\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+C:\github\sku-sw-summer-spring-special-lecture\허재영\workspace\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
-1501628730.index
-2119406613.index

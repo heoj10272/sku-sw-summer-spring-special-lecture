@@ -1,12 +1,16 @@
 package day01;
 
 public class Swap {
-	public static void main(String args) {
+	public static void main(String[] args) {
 		int n1 = 10;
 		int n2 = 30;
 		
 		//Q1: n1값이 항상 큰 값이 되도록, 필요할 경우 n1과 n2를 교체하라.
-		
+		if (n1 < n2) {
+			int temp = n1;
+			n1 = n2;
+			n2 = temp;
+		}
 		System.out.println("n1: "+n1);
 		System.out.println("n2: "+n2);
 		
@@ -20,7 +24,7 @@ public class Swap {
 				System.out.println("a1이 최대값입니다.");
 			}
 			else {
-				System.out.println("a1(" + a1 + ")은 a2(" + a2 + ")보다 작습니다.");
+				System.out.println("a2(" + a2 + ")은 a3(" + a3 + ")보다 작습니다.");
 			}
 		}
 	}
