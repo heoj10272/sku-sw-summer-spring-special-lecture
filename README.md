@@ -121,6 +121,20 @@ git commit -m "day01"
 ```
 git push
 ```
+
+이 때 오류가 발생할 수 있습니다.
+```
+$ git push
+fatal: The current branch jaeyoung has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin jaeyoung
+```
+오류문에서 시키는 대로 다음 명령어를 실행해주면 됩니다.
+```
+git push --set-upstream origin [자기 이름 branch]
+```
+
 여기까지 하셔도 아직 리포지토리에는 반영되지 않습니다.<br>
 앞서 말씀드렸다시피 제가 `merge`를 해야 반영됩니다.<br>
 그 요청(PR)을 해보겠습니다.
