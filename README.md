@@ -32,6 +32,11 @@ git clone https://github.com/heoj10272/sku-sw-summer-spring-special-lecture.git
 
 명령어 입력후 엔터를 치시면 git bash를 했던 폴더에 리포지토리의 모든 데이터가 복사됩니다.
 
+리포지토리 연동을 위해 다음 명령어를 실행합니다.
+```
+git remote add origin https://github.com/heoj10272/sku-sw-summer-spring-special-lecture.git
+```
+
 ## 6. java 워크스페이스 이동
 
 실습하고 계신 워크스페이스 폴더 (특강 때 강사님을 따라 그대로 생성하셨다면 `c:\sku\workspace`)를 자신의 이름이 적힌 폴더 내부로 이동시킵니다. <br>
