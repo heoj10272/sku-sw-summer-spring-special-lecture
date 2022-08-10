@@ -1,0 +1,11 @@
+package day03;
+
+public class Child extends Parent {
+	
+	Child c = new Child();
+	
+	int i = 10;
+	public int geti() {
+		return i;
+	}
+}

@@ -30,4 +30,20 @@ public class Goods {
 		this.countSold = countSold;
 	}
 	
+	public Goods() {
+		
+	}
+	public Goods(String name) {
+		this.name = name;
+	}
+	public Goods(String name, int price) {
+		this(name);
+		this.price = price;
+	}
+	public Goods(String name, int price, int conuntStock, int countSold) {
+		this(name, price);
+		this.countStock = countStock;
+		this.countSold = countSold;
+	}
+	
 }
