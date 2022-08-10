@@ -13,15 +13,22 @@ public class LottoTest {
 				LottoNum.generateNum();
 				Random = LottoNum.getNum();
 				
-				if (Random == 0) continue;
-
+				if (Random == 0) {
+					continue;
+				}
+				
 				for (int j = 0; j<6;j++) {
-					if (Random == Lotto[j]) continue;
-				}			
+					if (Random == Lotto[j]) {
+						continue;
+					}
+				}
+				
 				break;
-			}		
+			}
+			
 			Lotto[i] = Random;
 		}
+		
 		System.out.println("");
 		for (int k = 0; k<7;k++) {
 			System.out.printf("%d ", Lotto[k]);
