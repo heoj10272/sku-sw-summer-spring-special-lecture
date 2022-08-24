@@ -7,4 +7,12 @@
     <fullyQualifiedTypeName name="kr.ac.sku.dto.MemberDTO"/>
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="kr.ac.sku.service.MemberService"/>
+    <fullyQualifiedTypeName name="kr.ac.sku.ioc.BTV"/>
+    <fullyQualifiedTypeName name="kr.ac.sku.ioc.TV"/>
+    <fullyQualifiedTypeName name="kr.ac.sku.ioc.TVFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>
