@@ -1,6 +1,0 @@
-package day03;
-
-public class Child extends Parent {
-	Child c = new Child();
-	
-}

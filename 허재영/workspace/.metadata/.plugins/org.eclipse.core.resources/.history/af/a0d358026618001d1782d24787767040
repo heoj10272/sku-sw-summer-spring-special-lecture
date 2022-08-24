@@ -1,7 +1,0 @@
-package day03;
-
-public class Child extends Parent {
-	Child c = new Child();
-	System.out.println(c.i);
-	System.out.println(c.getI());
-}
