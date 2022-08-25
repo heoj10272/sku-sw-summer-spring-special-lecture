@@ -25,7 +25,7 @@ git clone [리포지토리 url 주소]
 ```
 이번에는 모두가 같은 url 주소를 입력할 것이므로, 입력하게 되는 명령어는 다음과 같습니다.
 ```
-git clone https://github.com/heoj10272/sku-sw-summer-spring-special-lecture.git
+git clone https://github.com/heoj10272/sku-sw-summer-spring-special-lecture.git .
 ```
 위 명령어를 그대로 복사하셔서 사용하셔도 상관없습니다. <br>
 하지만, git bash에서는 `ctrl`+`v`가 먹히지 않으므로 `우클릭` - `Paste` 하시면 됩니다.
